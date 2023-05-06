@@ -27,7 +27,7 @@
 - Physical keyboard (15 key or full?)
 - Lock button
 - Volume buttons and ringer switch on front for ease of design
-- Status light(s) on front/top to replace notification screen (incoming/missed call, text notification, low battery, etc)
+- Status light(s) on front/top to replace notification screen (incoming/missed call, text notification, low battery, microphone or gps on, etc)
 - Speaker on top, microphone on bottom
 - USB C charging/data bottom left
 - 3D printed clear casing
