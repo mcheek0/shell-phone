@@ -23,7 +23,7 @@
 - Bash for everything else
 
 ## Physical interface:
-- small but high resolution screen (oled maybe?)
+- 480x320 pixel screen (oled maybe? Characters on CLI will be 6 pixels wide by 10 pixels tall)
 - Physical keyboard (15 key or full?)
 - Lock button
 - Volume buttons and ringer switch on front for ease of design
